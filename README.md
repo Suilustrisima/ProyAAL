@@ -1,6 +1,7 @@
 # ProyAAL
 Proyecto Final de Aplicaciones en Ambientes Libres
 
+<img align="center" width="500px" height="700px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png">
 <h2>FlashPoint Comics 🚀</h2>
 <p><em>El cómic forma una comunidad y con ello muchas tendencias de conducta que se generalizan en la mayor cantidad de casos.
 Una novela gráfica es un formato de publicación con guion de un solo autor y que contiene una historia única, donde se fusionan el dibujo y la narrativa y se presentan temas profundos e historias extensas.
@@ -16,4 +17,4 @@ Permite almacenar y gestionar a modo de biblioteca las novelas gráficas.</em></
   <li><strong>Ejecutar en un IDE soportado</strong> - <p><em>Se necesita tener instalado un IDE por ejemplo Netbeans o Eclipse y sobre este ejecutarlo usando un servidor         
     deWildfly</em></p>     
 </ul>
-<img src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png">
+
