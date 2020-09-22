@@ -1,7 +1,7 @@
 # ProyAAL
 Proyecto Final de Aplicaciones en Ambientes Libres
 
-<img align="center" width="500px" height="700px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png">
+<img align="center" width="1000px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png">
 <h2>FlashPoint Comics 🚀</h2>
 <p><em>El cómic forma una comunidad y con ello muchas tendencias de conducta que se generalizan en la mayor cantidad de casos.
 Una novela gráfica es un formato de publicación con guion de un solo autor y que contiene una historia única, donde se fusionan el dibujo y la narrativa y se presentan temas profundos e historias extensas.
