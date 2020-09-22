@@ -1,0 +1,39 @@
+<!--h1{
+    color: red;
+    text-align: center;
+}-->
+
+   h3 {
+       font-family: Arial, "Helvetica Neue";
+       background-color: pink;
+   }
+header{
+    background: #80bdff;
+    color: greenyellow;
+}
+.coloruno{
+    background: greenyellow;
+    color: darkgrey;
+}
+
+ .colordos{    
+ 	background: orange;
+    color: orange;  
+}
+
+footer{
+    background: salmon;
+    color: white;
+}
+
+.panel {
+  position: fixed;
+  right: 100px;
+  top: 0px;
+  bottom: 0px; 
+  size: 50% 
+}
+
+.letracomic{
+	font: Comic Sans MS
+}
