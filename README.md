@@ -16,4 +16,4 @@ Permite almacenar y gestionar a modo de biblioteca las novelas gráficas.</em></
   <li><strong>Ejecutar en un IDE soportado</strong> - <p><em>Se necesita tener instalado un IDE por ejemplo Netbeans o Eclipse y sobre este ejecutarlo usando un servidor         
     deWildfly</em></p>     
 </ul>
-<a href="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png"</a>
+<img src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png">
