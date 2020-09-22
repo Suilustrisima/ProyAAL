@@ -1,7 +1,7 @@
 # ProyAAL
 Proyecto Final de Aplicaciones en Ambientes Libres
 
-Tíulo del Proyecto
+<h2>Tíulo del Proyecto</h2>
 Acá va un párrafo que describa lo que es el proyecto
 
 Comenzando 🚀
