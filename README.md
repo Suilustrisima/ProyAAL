@@ -1,6 +1,10 @@
 # ProyAAL
 Proyecto Final de Aplicaciones en Ambientes Libres
 
+<h2>Título del Proyecto</h2>
+<p><em>Acá va un párrafo que describa lo que es el proyecto</em></p>
+
+
 <h2>Tíulo del Proyecto</h2>
 Acá va un párrafo que describa lo que es el proyecto
 
