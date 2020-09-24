@@ -27,11 +27,11 @@ Permite almacenar y gestionar a modo de biblioteca las novelas gráficas.</em></
 <ul>
   <li><strong>src -> controlador</strong> - <p><em>Aquí se encontrará el controlador, con las funciones a realizarse</em></p>
     <img align="center" width="400px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/c1.jpg"></br>
-  <li><strong>src -> modelo</strong> - <p><em>Aquí se encontrará el modelo, con la entidad sobre la cual se trabajó, en este caso NovelaGrafica</em></p>
+  <li><strong></br>src -> modelo</strong> - <p><em>Aquí se encontrará el modelo, con la entidad sobre la cual se trabajó, en este caso NovelaGrafica</em></p>
     <img align="center" width="400px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/c1.jpg"></br>
-  <li><strong>WebContent -> css</strong> - <p><em>Aquí se encontrará lo necesario para aplicar estilos, bootstrap y css</em></p>
+  <li><strong></br>WebContent -> css</strong> - <p><em>Aquí se encontrará lo necesario para aplicar estilos, bootstrap y css</em></p>
     <img align="center" width="400px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/c2.jpg"></br>
-  <li><strong>WebContent (jsp)</strong> - <p><em>Aquí se encontrará las jsp, es decir la vista dentro del modelo</em></p>
+  <li><strong</br>WebContent (jsp)</strong> - <p><em>Aquí se encontrará las jsp, es decir la vista dentro del modelo</em></p>
     <img align="center" width="400px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/c3.jpg">
   
       
