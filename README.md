@@ -26,15 +26,16 @@ Permite almacenar y gestionar a modo de biblioteca las novelas gráficas.</em></
 <p><em>Flashpoint Comics ha sido desarrollado con MVC, por lo tanto la distribución de las carpetas es:</em></p>
 <ul>
   <li><strong>src -> controlador</strong> - <p><em>Aquí se encontrará el controlador, con las funciones a realizarse</em></p>
-    <img align="center" width="1000px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png">
+    <img align="center" width="400px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/c1.jpg">
   <li><strong>src -> modelo</strong> - <p><em>Aquí se encontrará el modelo, con la entidad sobre la cual se trabajó, en este caso NovelaGrafica</em></p>
+    <img align="center" width="400px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/c1.jpg">
   <li><strong>WebContent -> css</strong> - <p><em>Aquí se encontrará lo necesario para aplicar estilos, bootstrap y css</em></p>
-    <img align="center" width="1000px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png">
+    <img align="center" width="400px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/c2.jpg">
   <li><strong>WebContent (jsp)</strong> - <p><em>Aquí se encontrará las jsp, es decir la vista dentro del modelo</em></p>
-    <img align="center" width="1000px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/FlashpointComicsimg.png">
+    <img align="center" width="400px" height="300px" src="https://github.com/Suilustrisima/ProyAAL/blob/master/FlashpointComics/WebContent/img/c3.jpg">
   
-    deWildfly</em></p>     
-</ul
+      
+</ul>
 
 <h2>Realizado por 🔧</h2>
 <p><em>Richard Miranda</em></p>
